@@ -1,0 +1,8 @@
+{
+  "name": "RRHH Lotta",
+  "description": "Aplicación de gestión de recursos humanos y presentismo con estética minimalista y profesional.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
